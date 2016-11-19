@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TCP.Server
 {
-    public class Class1
+    class AsyncSocketListener
     {
     }
 }
